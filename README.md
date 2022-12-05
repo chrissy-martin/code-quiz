@@ -25,7 +25,7 @@ Enter your initials.
 ![alt text](./assets/screenshots/SS5.png))
 
 Here you can see where you landed in the score board. From there, you may choose to go back to the beginning of the quiz or clear all of the scores.
-![alt text](./assets/screenshots/SS6.png))
+![alt text](./assets/screenshots/SS6.png)
 
 
 ## License
