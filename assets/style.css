@@ -6,8 +6,11 @@
     display: none;
 }
 
-.main-container {
-    background-color: white;
+body {
+    background-image: url(./screenshots/istockphoto-1339908748-612x612.jpg);
+    background-size: cover;
+    background-repeat: repeat-x;
+    /* height: 1000px; */
 }
 
 .scores {
@@ -22,6 +25,7 @@
 	display: flex;
 	margin-left: 1700px;
 	font-size: 35px;
+    color: whitesmoke;
 }
 
 .btn {
@@ -56,6 +60,7 @@
   }
 
 .title {
+    color: whitesmoke;
     display: flex;
     margin-left: 600px;
     justify-content: center;
@@ -64,19 +69,22 @@
 }
 
 .instructions {
+    color: whitesmoke;
     display: flex;
     justify-content: center;
     margin-left: 650px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 #ask_question {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 40px;
+    color: #c71585;
     font-weight: bold;
     margin-left: 650px;
+    margin-bottom: 25px;
 }
 
 #btn-0, #btn-1, #btn-2, #btn-3 {
@@ -86,6 +94,7 @@
 
 #check_line {
     font-size: 20px;
+    color:  whitesmoke;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -95,6 +104,7 @@
     justify-content: center;
     margin-left: 550px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
     font-size: 30px;
     font-weight: bold;
 }
@@ -102,6 +112,7 @@
 .enterInitial {
     display: flex;
     margin-left: 750px;
+    color:whitesmoke;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     font-weight: bold;
@@ -111,6 +122,7 @@
     display: flex;
     margin-left: 800px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
     font-size: 30px;
     font-weight: bold;
 }
