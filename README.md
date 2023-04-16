@@ -16,16 +16,13 @@ Click on Start Quiz to begin. You may also choose to view highscores by clicking
 ![alt text](./assets/screenshots/SS1.png)
 Read the following questions and use the buttons to answer. 
 ![alt text](./assets/screenshots/SS2.png))
-![alt text](./assets/screenshots/SS3.png))
 
 You will recieve your final score and a space to enter your initials.
-![alt text](./assets/screenshots/SS4.png))
+![alt text](./assets/screenshots/SS3.png))
 
-Enter your initials.
-![alt text](./assets/screenshots/SS5.png))
 
 Here you can see where you landed in the score board. From there, you may choose to go back to the beginning of the quiz or clear all of the scores.
-![alt text](./assets/screenshots/SS6.png)
+![alt text](./assets/screenshots/SS4.png)
 
 
 ## License
