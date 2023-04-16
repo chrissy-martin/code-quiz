@@ -1,4 +1,4 @@
-# week-four-challenge
+# Code Quiz
 
 ## Description
 This is a multiple choice coding quiz/assessment. This application features dynamically updated HTML and CSS powered by JavaScript. 
